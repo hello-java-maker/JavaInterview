@@ -23,6 +23,8 @@
 ## 面试知识点
 
 - [各公司面试知识点汇总](docs/interview-experience/面试常见知识.md) 
+- [面试常见问题分类汇总](docs/interview-experience/面试常见问题分类汇总.md) 
+
 
 ## 公司面经
 - [各公司面试经验汇总](docs/interview-experience/各大公司面经.md) 
