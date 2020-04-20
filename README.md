@@ -4,6 +4,8 @@
 
 如果觉得有帮助，给个 **star** 好不好，哈哈（目前还不是很完善，后面会一一补充）。
 
+**JavaInterview 最新地址**：https://github.com/OUYANGSIHAI/JavaInterview
+
 **一起冲！！！**
 
 <a href="https://github.com/OUYANGSIHAI/JavaInterview" target="_blank">
@@ -91,7 +93,7 @@
 
 ### 基础
 
-
+- [Java基础系列文章](https://mp.weixin.qq.com/mp/homepage?__biz=MzI2OTQ4OTQ1NQ==&hid=1&sn=c455e51f87eaa9c12d6b45e0e4d33960&scene=1&devicetype=iOS13.3.1&version=17000c2b&lang=zh_CN&nettype=WIFI&ascene=7&session_us=gh_2bfc34fbf760&fontScale=100&wx_header=1)
 
 ### 容器（包括juc）
 
@@ -102,7 +104,9 @@
 
 ### JVM
 
+- [深入理解Java虚拟机系列](https://mp.weixin.qq.com/s/SZ87s3fmKL3Kc_tAMcOFQw)
 - [深入理解Java虚拟机系列--完全解决面试问题](https://blog.ouyangsihai.cn/shen-ru-li-jie-java-xu-ni-ji-xi-lie-jiao-cheng.html)
+
 
 ### Java8 
 

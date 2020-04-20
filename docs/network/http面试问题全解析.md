@@ -126,3 +126,18 @@ cookie和sessions
 关于HTTP协议
 
 [https://www.cnblogs.com/ranyonsue/p/5984001.html](https://www.cnblogs.com/ranyonsue/p/5984001.html)
+
+
+#### Tip：本来有很多我准备的资料的，但是都是外链，或者不合适的分享方式，所以大家去公众号回复【资料】好了。
+
+![](http://image.ouyangsihai.cn/FszE5cIon6eHHexBEgOSBGBWeoyP)
+
+现在免费送给大家，在我的公众号 **好好学java** 回复 **资料** 即可获取。
+
+有收获？希望老铁们来个三连击，给更多的人看到这篇文章
+
+1、老铁们，关注我的原创微信公众号「**好好学java**」，专注于Java、数据结构和算法、微服务、中间件等技术分享，保证你看完有所收获。
+
+![](http://image.ouyangsihai.cn/FgUUPlQOlQtjbbdOs1RZK9gWxitV)
+
+2、给俺一个 **star** 呗，可以让更多的人看到这篇文章，顺便激励下我继续写作，嘻嘻。
