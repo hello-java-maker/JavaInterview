@@ -1,15 +1,19 @@
 **[JavaInterview](https://github.com/OUYANGSIHAI/JavaInterview)** 是本人在备战春招及这几年学习的知识沉淀，这里面有很多都是自己的原创文章，同时，也有很多是本在备战春招的过程中觉得对面试特别有帮助的文章，**[JavaInterview](https://github.com/OUYANGSIHAI/JavaInterview)** 不一定可以帮助你进入到 BAT 等大厂，但是，如果你认真研究，仔细思考，我相信你也可以跟我一样幸运的进入到腾讯等大厂实实习。
 
+本人经常在 CSDN 写博客，累计**原创博客 400+**，拥有**访问量160W**，目前是 **CSDN 博客专家**，春招目前拿到了腾讯等大厂offer。
+
+如果觉得有帮助，给个 **star** 好不好，哈哈（目前还不是很完善，后面会一一补充）。
+
 **一起冲！！！**
 
-<p align="center">
 <a href="https://github.com/OUYANGSIHAI/JavaInterview" target="_blank">
-	<img src="http://image.ouyangsihai.cn/FvyAZ0ZEHmgrETnvhsJDHioiqs9e" width=""/>
+	<div align="center"> <img src="http://image.ouyangsihai.cn/FvyAZ0ZEHmgrETnvhsJDHioiqs9e" width = 500 height = 300 /> </div>
 </a>
-</p>
+
+<div align="center">
 
 [![微信群](https://camo.githubusercontent.com/59d7f19ba1af85247e016858a63045f8fe9a8c19/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7765436861742de5beaee4bfa1e7bea42d626c75652e737667)](https://github.com/OUYANGSIHAI/JavaInterview#%E8%81%94%E7%B3%BB%E6%88%91) [![公众号](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E5%A5%BD%E5%A5%BD%E5%AD%A6java-orange)](https://github.com/OUYANGSIHAI/JavaInterview#%E5%85%AC%E4%BC%97%E5%8F%B7) [![公众号](https://camo.githubusercontent.com/6d206aa03f27a851cf994123ef7be1a8d3192d54/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a75656a696e2de68e98e987912d626c75652e737667)](https://juejin.im/user/5a672822f265da3e55380f0b) [![投稿](https://camo.githubusercontent.com/85a04ac4953a80940570b5c86ce73a1d34ff1542/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6373646e2d4353444e2d7265642e737667)](https://blog.csdn.net/sihai12345) [![投稿](https://camo.githubusercontent.com/6efc9c83ef8e85b19ce2853b5f69d68255f0c037/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f62696c6962696c692de59394e593a9e59394e593a92d637269746963616c)](https://space.bilibili.com/441147490) 
-
+</div>
 
 ### 目录（ctrl + f 查找更香）
 
