@@ -56,11 +56,11 @@
 - [工具](#--)
   * [Git](#git)
   * [Docker](#docker)
-  * [其他](#--)
-    + [权限控制（设计、shiro）](#--------shiro-)
-  * [资源](#--)
-  * [书单](#--)
-  * [实战项目推荐](#------)
+- [其他](#--)
+  * [权限控制（设计、shiro）](#--------shiro-)
+- [Java学习资源](#--)
+- [Java书籍推荐](#java----)
+- [实战项目推荐](#------)
 - [说明](#--)
   * [JavaInterview介绍](#javainterview--)
   * [关于转载](#----)
@@ -254,21 +254,34 @@
 
 ### Docker
 
-### 其他
+## 其他
 
-#### 权限控制（设计、shiro）
+### 权限控制（设计、shiro）
 
 - [权限控制设计](https://mp.weixin.qq.com/s/WTgz07xDIf9FbAfCDyTheQ)
 - [shiro相关教程](https://blog.csdn.net/sihai12345/category_9268544.html)
 - [springboot+vue+shiro前后端分离实战项目](https://blog.csdn.net/neuf_soleil/category_9287210.html)
 - [shiro挺好的教程](https://how2j.cn/k/shiro/shiro-springboot/1728.html)
 
-### 资源
+## Java学习资源
 
-### 书单
+- [2020年Java学习资源，你想要的都在这里了](https://mp.weixin.qq.com/s/wLjjy7D57s3UOv4sr8Lxkg)
+
+**截图**
+
+![](http://image.ouyangsihai.cn/Fl0FhkpxLNw0_4-pe8_f8MwAyHzc)
+![](http://image.ouyangsihai.cn/Fp3EtjR1FbKPJG2uPdGpMiFjHBNR)
+![](http://image.ouyangsihai.cn/FqEKc4i6lsfLCRomFAIksG_rgveY)
 
 
-### 实战项目推荐
+## Java书籍推荐
+
+
+## 实战项目推荐
+
+>小心翼翼的告诉你，上面的资源当中就有很多**企业级项目**，没有项目一点不用怕，因为你看到了这个。
+
+- [找工作，没有上的了台面的项目怎么办？](https://mp.weixin.qq.com/s/0oK43_z99pVY9dYVXyIeiw)
 
 
 ## 说明
@@ -283,7 +296,7 @@
 
 ### 如何对该开源文档进行贡献
 
-1. 笔记内容大多是手敲，所以难免会有笔误，你可以帮我找错别字。
+1. 里面很多都是我的原创，能力有限，欢迎指正。
 2. 很多知识点我可能没有涉及到，所以你可以对其他知识点进行补充。
 3. 现有的知识点难免存在不完善或者错误，所以你可以对已有知识点进行修改/补充。
 
