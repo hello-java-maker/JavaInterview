@@ -1,18 +1,15 @@
-**JavaInterview** 是本人在备战春招及这几年学习的知识沉淀，这里面有很多都是自己的原创文章，同时，也有很多是本在备战春招的过程中觉得对面试特别有帮助的文章，**JavaInterview** 不一定可以帮助你进入到 BAT 等大厂，但是，如果你认真研究，仔细思考，我相信你也可以跟我一样幸运的进入到腾讯等大厂实实习。
+**[JavaInterview](https://github.com/OUYANGSIHAI/JavaInterview)** 是本人在备战春招及这几年学习的知识沉淀，这里面有很多都是自己的原创文章，同时，也有很多是本在备战春招的过程中觉得对面试特别有帮助的文章，**[JavaInterview](https://github.com/OUYANGSIHAI/JavaInterview)** 不一定可以帮助你进入到 BAT 等大厂，但是，如果你认真研究，仔细思考，我相信你也可以跟我一样幸运的进入到腾讯等大厂实实习。
 
 **一起冲！！！**
 
 <p align="center">
 <a href="https://github.com/OUYANGSIHAI/JavaInterview" target="_blank">
-	<img src="http://image.ouyangsihai.cn/Fodl8fn7nf-o25BQLwAZsS0cVCF9" width=""/>
+	<img src="http://image.ouyangsihai.cn/FvyAZ0ZEHmgrETnvhsJDHioiqs9e" width=""/>
 </a>
 </p>
 
-<p align="center">
-
 [![微信群](https://camo.githubusercontent.com/59d7f19ba1af85247e016858a63045f8fe9a8c19/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7765436861742de5beaee4bfa1e7bea42d626c75652e737667)](https://github.com/OUYANGSIHAI/JavaInterview#%E8%81%94%E7%B3%BB%E6%88%91) [![公众号](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E5%A5%BD%E5%A5%BD%E5%AD%A6java-orange)](https://github.com/OUYANGSIHAI/JavaInterview#%E5%85%AC%E4%BC%97%E5%8F%B7) [![公众号](https://camo.githubusercontent.com/6d206aa03f27a851cf994123ef7be1a8d3192d54/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a75656a696e2de68e98e987912d626c75652e737667)](https://juejin.im/user/5a672822f265da3e55380f0b) [![投稿](https://camo.githubusercontent.com/85a04ac4953a80940570b5c86ce73a1d34ff1542/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6373646e2d4353444e2d7265642e737667)](https://blog.csdn.net/sihai12345) [![投稿](https://camo.githubusercontent.com/6efc9c83ef8e85b19ce2853b5f69d68255f0c037/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f62696c6962696c692de59394e593a9e59394e593a92d637269746963616c)](https://space.bilibili.com/441147490) 
 
-</p>
 
 ### 目录（ctrl + f 查找更香）
 
@@ -68,58 +65,6 @@
   * [投稿](#--)
   * [联系我](#---)
   * [公众号](#---)
-- [项目准备](#-----1)
-- [面试知识点](#------1)
-- [公司面经](#-----1)
-- [Java](#java-1)
-  * [基础](#---1)
-  * [容器（包括juc）](#-----juc--1)
-  * [并发](#---1)
-  * [JVM](#jvm-1)
-  * [Java8](#java8-1)
-- [计算机网络](#------1)
-- [计算机操作系统](#--------1)
-- [Linux](#linux-1)
-- [数据结构与算法](#--------1)
-  * [数据结构](#-----1)
-  * [算法](#---1)
-- [数据库](#----1)
-  * [MySQL](#mysql-1)
-    + [mysql（优化思路）](#mysql-------1)
-- [系统设计](#-----1)
-  * [秒杀系统相关](#-------1)
-  * [前后端分离](#------1)
-  * [单点登录](#-----1)
-  * [常用框架](#-----1)
-    + [Spring](#spring-1)
-    + [SpringBoot](#springboot-1)
-- [分布式](#----1)
-  * [dubbo](#dubbo-1)
-  * [zookeeper](#zookeeper-1)
-  * [RocketMQ](#rocketmq-1)
-  * [RabbitMQ](#rabbitmq-1)
-  * [kafka](#kafka-1)
-  * [消息中间件](#------1)
-  * [redis](#redis-1)
-  * [分布式系统](#------1)
-- [线上问题调优（虚拟机，tomcat）](#-----------tomcat--1)
-- [面试指南](#-----1)
-- [工具](#---1)
-  * [Git](#git-1)
-  * [Docker](#docker-1)
-  * [其他](#---1)
-    + [权限控制（设计、shiro）](#--------shiro--1)
-  * [资源](#---1)
-  * [书单](#---1)
-  * [实战项目推荐](#-------1)
-- [说明](#---1)
-  * [JavaInterview介绍](#javainterview---1)
-  * [关于转载](#-----1)
-  * [如何对该开源文档进行贡献](#-------------1)
-  * [为什么要做这个开源文档？](#-------------1)
-  * [投稿](#---1)
-  * [联系我](#----1)
-  * [公众号](#----1)
 
 
 ## 项目准备
