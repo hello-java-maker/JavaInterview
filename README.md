@@ -1,12 +1,16 @@
-**[JavaInterview](https://github.com/OUYANGSIHAI/JavaInterview)** 是本人在备战春招及这几年学习的知识沉淀，这里面有很多都是自己的原创文章，同时，也有很多是本在备战春招的过程中觉得对面试特别有帮助的文章，**[JavaInterview](https://github.com/OUYANGSIHAI/JavaInterview)** 不一定可以帮助你进入到 BAT 等大厂，但是，如果你认真研究，仔细思考，我相信你也可以跟我一样幸运的进入到腾讯等大厂。
+**[JavaInterview](https://github.com/OUYANGSIHAI/JavaInterview)** 是本人在备战春招及这几年学习的知识沉淀，这里面有很多都是自己的原创文章，同时，也有很多是本在备战春招的过程中觉得对面试特别有帮助的文章，**[JavaInterview](https://github.com/OUYANGSIHAI/JavaInterview)** 不一定可以帮助你进入到 BAT 等大厂，但是，如果你认真研究，仔细思考，我相信你也可以跟我一样幸运的进入到大厂。
 
-本人经常在 CSDN 写博客，累计**原创博客 400+**，拥有**访问量160W**，目前是 **CSDN 博客专家**，春招目前拿到了腾讯等大厂offer。
+本人经常在 CSDN 写博客，累计**原创博客 400+**，拥有**访问量160W**，目前是 **CSDN 博客专家**，春招目前拿到了大厂offer。
 
 如果觉得有帮助，给个 **star** 好不好，哈哈（目前还不是很完善，后面会一一补充）。
 
 **JavaInterview 最新地址**：https://github.com/OUYANGSIHAI/JavaInterview
 
 **一起冲！！！**
+
+如果大家想要实时关注我更新的文章以及分享的干货的话，请及时关注我的公众号 **程序员的技术圈子**。
+
+![](http://image.ouyangsihai.cn/FlL0VJf1Q4gCfrc8RhL-SL-xiiXo)
 
 <a href="https://github.com/OUYANGSIHAI/JavaInterview" target="_blank">
 	<div align="center"> <img src="http://image.ouyangsihai.cn/FvyAZ0ZEHmgrETnvhsJDHioiqs9e" width = 500 height = 300 /> </div>
@@ -133,7 +137,8 @@
 ### 算法
 
 - [2020年最新算法面试真题汇总](docs/dataStructures-algorithms/算法面试真题汇总.md)  
-- [2020年最新算法题型难点总结](docs/dataStructures-algorithms/算法题目难点题目总结.md)  
+- [2020年最新算法题型难点总结](docs/dataStructures-algorithms/算法题目难点题目总结.md) 
+
 
 ## 数据库
 
@@ -284,12 +289,22 @@
 ## Java书籍推荐
 
 
+
 ## 实战项目推荐
 
 >小心翼翼的告诉你，上面的资源当中就有很多**企业级项目**，没有项目一点不用怕，因为你看到了这个。
 
 - [找工作，没有上的了台面的项目怎么办？](https://mp.weixin.qq.com/s/0oK43_z99pVY9dYVXyIeiw)
 
+
+## 程序人生
+
+- [我想是时候跟大学告别了](https://blog.ouyangsihai.cn/wo-xiang-shi-shi-hou-he-da-xue-gao-bie-liao.html)
+- [坚持，这两个字非常重要！](https://blog.ouyangsihai.cn/jian-chi-zhe-liang-ge-zi-fei-chang-chong-yao.html)
+- [2018年年终总结，你的呢？](https://blog.ouyangsihai.cn/zhe-shi-wo-de-2018-nian-zhong-zong-jie-ni-de-ni.html)
+- [多去了解了解自己](https://blog.ouyangsihai.cn/duo-wen-wen-zi-ji-xiang-cheng-wei-shi-me-yang-de-ren.html)
+- [关于考研，这是我给大家的经验](https://blog.ouyangsihai.cn/guan-yu-zhe-jian-shi-wo-you-hua-yao-shuo.html)
+- [从普通二本到研究生再到自媒体的年轻人，这是我的故事](https://blog.ouyangsihai.cn/cong-pu-ben-dao-zha-shuo-cong-da-xue-sheng-dao-zi-mei-ti-de-nian-qing-ren-wo-fen-xiang-wo-de-coding-sheng-huo.html)
 
 ## 说明
 
@@ -324,7 +339,8 @@
 
 ### 公众号
 
-如果大家想要实时关注我更新的文章以及分享的干货的话，可以关注我的公众号。
+如果大家想要实时关注我更新的文章以及分享的干货的话，关注我的公众号 **程序员的技术圈子**。
 
-![](http://image.ouyangsihai.cn/FgUUPlQOlQtjbbdOs1RZK9gWxitV)
+![](http://image.ouyangsihai.cn/FlL0VJf1Q4gCfrc8RhL-SL-xiiXo)
+
 
