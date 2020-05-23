@@ -8,7 +8,7 @@
 
 **一起冲！！！**
 
-如果大家想要实时关注我更新的文章以及分享的干货的话，请及时关注我的公众号 **程序员的技术圈子**。
+如果大家想要实时关注我更新的文章以及分享的干货的话，请及时关注我的公众号 **程序员的技术圈子**，微信扫描下面二维码，绿色通道关注福利，等你拿。
 
 ![](http://image.ouyangsihai.cn/FlL0VJf1Q4gCfrc8RhL-SL-xiiXo)
 
@@ -21,7 +21,7 @@
 [![微信群](https://camo.githubusercontent.com/59d7f19ba1af85247e016858a63045f8fe9a8c19/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7765436861742de5beaee4bfa1e7bea42d626c75652e737667)](https://github.com/OUYANGSIHAI/JavaInterview#%E8%81%94%E7%B3%BB%E6%88%91) [![公众号](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E5%A5%BD%E5%A5%BD%E5%AD%A6java-orange)](https://github.com/OUYANGSIHAI/JavaInterview#%E5%85%AC%E4%BC%97%E5%8F%B7) [![公众号](https://camo.githubusercontent.com/6d206aa03f27a851cf994123ef7be1a8d3192d54/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a75656a696e2de68e98e987912d626c75652e737667)](https://juejin.im/user/5a672822f265da3e55380f0b) [![投稿](https://camo.githubusercontent.com/85a04ac4953a80940570b5c86ce73a1d34ff1542/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6373646e2d4353444e2d7265642e737667)](https://blog.csdn.net/sihai12345) [![投稿](https://camo.githubusercontent.com/6efc9c83ef8e85b19ce2853b5f69d68255f0c037/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f62696c6962696c692de59394e593a9e59394e593a92d637269746963616c)](https://space.bilibili.com/441147490) 
 </div>
 
-### 目录（ctrl + f 查找更香）
+### 目录（ctrl + f 查找更香：不能点击的，还在写）
 
 - [项目准备](#项目准备)
 - [面试知识点](#面试知识点)
@@ -67,6 +67,7 @@
 - [Java学习资源](#Java学习资源)
 - [Java书籍推荐](#Java书籍推荐)
 - [实战项目推荐](#实战项目推荐)
+- [程序人生](#程序人生)
 - [说明](#说明)
   * [JavaInterview介绍](#JavaInterview介绍)
   * [关于转载](#关于转载)
@@ -101,25 +102,59 @@
 
 ### 容器（包括juc）
 
+#### 基础容器
+
+- ArrayList源码分析及真实大厂面试题精讲
+- LinkedList源码分析及真实大厂面试题精讲
+- HashMap源码分析及真实大厂面试题精讲
+- TreeMap源码分析及真实大厂面试题精讲
+- TreeSet源码分析及真实大厂面试题精讲
+- LinkedHashMap源码分析及真实大厂面试题精讲
+
+#### 阻塞容器
+
+- ConcurrentHashMap源码分析及真实大厂面试题精讲
+- ArrayBlockingQueue源码分析及真实大厂面试题精讲
+- LinkedBlockingQueue源码分析及真实大厂面试题精讲
+- PriorityBlockingQueue源码分析及真实大厂面试题精讲
+
 
 ### 并发
 
+- Synchronized关键字精讲及真实大厂面试题解析
+- Volitale关键字精讲及真实大厂面试题解析
+- 关于LRU的实现
+- ThreadLocal面试中会怎么提问呢？
+- 线程池的面试题，这篇文章帮你搞定它！
 
 
 ### JVM
 
 - [深入理解Java虚拟机系列](https://mp.weixin.qq.com/s/SZ87s3fmKL3Kc_tAMcOFQw)
 - [深入理解Java虚拟机系列--完全解决面试问题](https://blog.ouyangsihai.cn/shen-ru-li-jie-java-xu-ni-ji-xi-lie-jiao-cheng.html)
+- [深入理解Java虚拟机-Java内存区域透彻分析](https://blog.ouyangsihai.cn/shen-ru-li-jie-java-xu-ni-ji-java-nei-cun-qu-yu-tou-che-fen-xi.html)
+- [深入理解Java虚拟机-JVM内存分配与回收策略原理，从此告别JVM内存分配文盲](https://blog.ouyangsihai.cn/shen-ru-li-jie-java-xu-ni-ji-jvm-nei-cun-fen-pei-yu-hui-shou-ce-lue-yuan-li-cong-ci-gao-bie-jvm-nei-cun-fen-pei-wen-mang.html)
+- [深入理解Java虚拟机-常用vm参数分析](https://blog.ouyangsihai.cn/shen-ru-li-jie-java-xu-ni-ji-chang-yong-vm-can-shu-fen-xi.html)
+- [深入理解Java虚拟机-如何利用JDK自带的命令行工具监控上百万的高并发的虚拟机性能](https://blog.ouyangsihai.cn/shen-ru-li-jie-java-xu-ni-ji-ru-he-li-yong-jdk-zi-dai-de-ming-ling-xing-gong-ju-jian-kong-shang-bai-wan-de-gao-bing-fa-de-xu-ni-ji-xing-neng.html)
+- [深入理解Java虚拟机-如何利用VisualVM对高并发项目进行性能分析](https://blog.ouyangsihai.cn/shen-ru-li-jie-java-xu-ni-ji-ru-he-li-yong-visualvm-dui-gao-bing-fa-xiang-mu-jin-xing-xing-neng-fen-xi.html)
+- [深入理解Java虚拟机-你了解GC算法原理吗](https://blog.ouyangsihai.cn/shen-ru-li-jie-java-xu-ni-ji-ni-liao-jie-gc-suan-fa-yuan-li-ma.html)
+- [几个面试官常问的垃圾回收器，下次面试就拿这篇文章怼回去！](https://blog.ouyangsihai.cn/shen-ru-li-jie-java-xu-ni-ji-chang-jian-de-la-ji-hui-shou-qi.html)
+- [面试官100%会严刑拷打的 CMS 垃圾回收器，下次面试就拿这篇文章怼回去！](https://blog.ouyangsihai.cn/shen-ru-li-jie-java-xu-ni-ji-cms-la-ji-hui-shou-qi.html)
 
 
 ### Java8 
 
 - [Java8快速学习教程](https://blog.ouyangsihai.cn/java8-zui-xin-jiao-cheng-bu-yi-yang-de-java8.html)
 - [Java11的最新特性](https://blog.ouyangsihai.cn/java11-zheng-shi-fa-bu-liao-wo-men-gai-zen-me-ban.html)
+- [Java8 之 lambda 表达式、方法引用、函数式接口、默认方式、静态方法](https://blog.ouyangsihai.cn/java8-zhi-lambda-biao-da-shi-fang-fa-yin-yong-han-shu-shi-jie-kou-mo-ren-fang-shi-jing-tai-fang-fa.html)
+- [Java8之Consumer、Supplier、Predicate和Function攻略](https://blog.ouyangsihai.cn/java8-zhi-consumer-supplier-predicate-he-function-gong-lue.html)
+- [Java8 的 Stream 流式操作之王者归来](https://blog.ouyangsihai.cn/java8-de-stream-liu-shi-cao-zuo-zhi-wang-zhe-gui-lai.html)
 
 ## 计算机网络
 
 - [http面试问题全解析](docs/network/http面试问题全解析.md)
+- 关于tcp、udp网络模型的问题，这篇文章告诉你
+- http、https还不了解，别慌！
 
 ## 计算机操作系统
 
@@ -128,25 +163,45 @@
 ## Linux
 
 - [java工程师linux命令，这篇文章就够了](https://blog.ouyangsihai.cn/java-gong-cheng-shi-linux-ming-ling-zhe-pian-wen-zhang-jiu-gou-liao.html)
+- 常问的几个Linux面试题，通通解决它
 
 ## 数据结构与算法
 
 ### 数据结构
 
+- 跳表这种数据结构，你真的清楚吗，面试官可能会问这些问题！
+- 红黑树你了解多少，不会肯定会被面试官怼坏
+- [B树，B+树，你了解多少，面试官问那些问题？](https://blog.ouyangsihai.cn/mian-shi-guan-wen-ni-b-shu-he-b-shu-jiu-ba-zhe-pian-wen-zhang-diu-gei-ta.html)
 
 ### 算法
 
 - [2020年最新算法面试真题汇总](docs/dataStructures-algorithms/算法面试真题汇总.md)  
 - [2020年最新算法题型难点总结](docs/dataStructures-algorithms/算法题目难点题目总结.md) 
-
+- 关于贪心算法的leetcode题目，这篇文章可以帮你解决80%
+- 回溯算法不会，这篇文章一定得看
+- 动态规划你了解多少，我来帮你入个们
+- 链表的题目真的不难，看了这篇文章你就知道有多简单了
+- 还在怕二叉树的题目吗？
+= 栈和队列的题目可以这样出题型，你掌握了吗
+- 数组中常用的几种leetcode解题技巧！
 
 ## 数据库
 
 ### MySQL
 
 - [MySQL深入理解教程-解决面试中的各种问题](https://blog.ouyangsihai.cn/mysql-shen-ru-li-jie-jiao-cheng-mysql-de-yi-zhu-shi-jie.html)
+- [InnoDB与MyISAM等存储引擎对比](https://blog.ouyangsihai.cn/innodb-yu-myisam-deng-cun-chu-yin-qing-dui-bi.html)
+- [	面试官问你B树和B+树，就把这篇文章丢给他](https://blog.ouyangsihai.cn/mian-shi-guan-wen-ni-b-shu-he-b-shu-jiu-ba-zhe-pian-wen-zhang-diu-gei-ta.html)
+- [MySQL的B+树索引的概念、使用、优化及使用场景](https://blog.ouyangsihai.cn/mysql-de-b-shu-suo-yin.html)
+- [	MySQL全文索引最强教程](https://blog.ouyangsihai.cn/mysql-quan-wen-suo-yin.html)
+- [	MySQL的又一神器-锁，MySQL面试必备](https://blog.ouyangsihai.cn/mysql-de-you-yi-shen-qi-suo.html)
+- [	MySQL事务，这篇文章就够了](https://blog.ouyangsihai.cn/mysql-shi-wu-zhe-pian-wen-zhang-jiu-gou-liao.html)
+- [	mysqldump工具命令参数大全](https://blog.ouyangsihai.cn/mysqldump-gong-ju-ming-ling-can-shu-da-quan.html)
+- [看完这篇MySQL备份的文章，再也不用担心删库跑路了](https://blog.ouyangsihai.cn/kan-wan-zhe-pian-mysql-bei-fen-de-wen-zhang-zai-ye-bu-yong-dan-xin-shan-ku-pao-lu-liao.html)
+- 关于MySQL索引，面试中面试官会怎么为难你，一定得注意
+- MySQL中的乐观锁、悲观锁，JDK中的乐观锁、悲观锁？ 
 
-#### mysql（优化思路）
+#### MySQL（优化思路）
 
 - [MySQL高频面试题](https://mp.weixin.qq.com/s/KFCkvfF84l6Eu43CH_TmXA)
 - [MySQL查询优化过程](https://mp.weixin.qq.com/s/jtuLb8uAIHJNvNpwcIZfpA)
@@ -180,14 +235,14 @@
 
 #### SpringBoot
 
-- [springboot史上最全教程](https://blog.csdn.net/sihai12345/category_7779682.html)
+- [springboot史上最全教程，11篇文章全解析](https://blog.ouyangsihai.cn/categories/springboot2-0%E6%9C%80%E6%96%B0%E6%95%99%E7%A8%8B/)
 - [微服务面试相关资料](docs/microservice/微服务相关资料.md)  
 
 ## 分布式
 
 ### dubbo
 
-- [dubbo教程](https://blog.ouyangsihai.cn/dubbo-yi-pian-wen-zhang-jiu-gou-liao-dubbo-yu-dao-chu-lian.html)
+- [dubbo入门实战教程，这篇文章真的再好不过了](https://blog.ouyangsihai.cn/dubbo-yi-pian-wen-zhang-jiu-gou-liao-dubbo-yu-dao-chu-lian.html)
 - [dubbo源码分析](http://cmsblogs.com/?p=5324)
 - [dubbo面试题](https://mp.weixin.qq.com/s/PdWRHgm83XwPYP08KnkIsw)
 - [dubbo面试题2](https://mp.weixin.qq.com/s/Kz0s9K3J9Lpvh37oP_CtCA)
