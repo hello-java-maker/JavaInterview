@@ -8,7 +8,15 @@
 
 **一起冲！！！**
 
-如果大家想要实时关注我更新的文章以及分享的干货的话，请及时关注我的公众号 **程序员的技术圈子**，微信扫描下面二维码，绿色通道关注福利，等你拿。
+#### Java面试思维导图预警
+
+这里再分享一些我总结的**Java面试思维导图**，我靠这些导图拿到了一线互联网公司的offer，先来瞧瞧。
+
+![](http://image.ouyangsihai.cn/FtJ3PbBRdNSa1NaUr96JmUq24_yS)
+![](http://image.ouyangsihai.cn/FsTv2aMsGcv8M9Rsyx6POBOGKY1g)
+
+
+**划重点**：想要`导图源文件`，更多`Java面试思维导图`，请关注我的公众号 **程序员的技术圈子**，`微信扫描下面二维码`，回复：**思维导图**，获取思维导图，绿色通道关注福利，等你拿。
 
 ![](http://image.ouyangsihai.cn/FlL0VJf1Q4gCfrc8RhL-SL-xiiXo)
 
@@ -177,7 +185,7 @@
 
 - [2020年最新算法面试真题汇总](docs/dataStructures-algorithms/算法面试真题汇总.md)  
 - [2020年最新算法题型难点总结](docs/dataStructures-algorithms/算法题目难点题目总结.md) 
-- 关于贪心算法的leetcode题目，这篇文章可以帮你解决80%
+- [关于贪心算法的leetcode题目，这篇文章可以帮你解决80%](https://blog.ouyangsihai.cn/jie-shao-yi-xia-guan-yu-leetcode-de-tan-xin-suan-fa-de-jie-ti-fang-fa.html)
 - 回溯算法不会，这篇文章一定得看
 - 动态规划你了解多少，我来帮你入个们
 - 链表的题目真的不难，看了这篇文章你就知道有多简单了
@@ -317,7 +325,7 @@
 
 ### Git
 
-- [实际开发中的git命令大全](https://www.jianshu.com/p/53a00fafbe99)
+- [实际开发中的git命令大全](https://blog.ouyangsihai.cn/wo-zai-shi-ji-gong-zuo-zhong-yong-de-zui-duo-de-git-ming-ling.html)
 
 ### Docker
 
@@ -343,7 +351,7 @@
 
 ## Java书籍推荐
 
-
+- [从入门到拿大厂offer，必须看的数据结构与算法书籍推荐](https://blog.ouyangsihai.cn/cong-ru-men-dao-na-da-han-offer-bi-xu-kan-de-suan-fa-shu-ji-tui-jian-bu-hao-bu-tui-jian.html)
 
 ## 实战项目推荐
 
