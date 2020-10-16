@@ -35,55 +35,57 @@
 - [面试知识点](#面试知识点)
 - [公司面经](#公司面经)
 - [Java](#java)
-  * [基础](#基础)
-  * [容器（包括juc）](#容器包括juc)
-  * [并发](#并发)
-  * [JVM](#jvm)
-  * [Java8](#java8)
+  - [基础](#基础)
+  - [容器（包括juc）](#容器包括juc)
+    - [基础容器](#基础容器)
+    - [阻塞容器](#阻塞容器)
+  - [并发](#并发)
+  - [JVM](#jvm)
+  - [Java8](#java8)
 - [计算机网络](#计算机网络)
 - [计算机操作系统](#计算机操作系统)
 - [Linux](#linux)
 - [数据结构与算法](#数据结构与算法)
-  * [数据结构](#数据结构)
-  * [算法](#算法)
+  - [数据结构](#数据结构)
+  - [算法](#算法)
 - [数据库](#数据库)
-  * [MySQL](#mysql)
-    + [mysql（优化思路）](#mysql优化思路)
+  - [MySQL](#mysql)
+    - [MySQL（优化思路）](#mysql优化思路)
 - [系统设计](#系统设计)
-  * [秒杀系统相关](#秒杀系统相关)
-  * [前后端分离](#前后端分离)
-  * [单点登录](#单点登录)
-  * [常用框架](#常用框架)
-    + [Spring](#Spring)
-    + [SpringBoot](#springboot)
+  - [秒杀系统相关](#秒杀系统相关)
+  - [前后端分离](#前后端分离)
+  - [单点登录](#单点登录)
+  - [常用框架](#常用框架)
+    - [Spring](#spring)
+    - [SpringBoot](#springboot)
 - [分布式](#分布式)
-  * [dubbo](#dubbo)
-  * [zookeeper](#zookeeper)
-  * [RocketMQ](#rocketmq)
-  * [RabbitMQ](#rabbitmq)
-  * [kafka](#kafka)
-  * [消息中间件](#消息中间件)
-  * [redis](#redis)
-  * [分布式系统](#分布式系统)
-- [线上问题调优（虚拟机，tomcat）](#线上问题调优虚拟机，tomcat)
+  - [dubbo](#dubbo)
+  - [zookeeper](#zookeeper)
+  - [RocketMQ](#rocketmq)
+  - [RabbitMQ](#rabbitmq)
+  - [kafka](#kafka)
+  - [消息中间件](#消息中间件)
+  - [redis](#redis)
+  - [分布式系统](#分布式系统)
+- [线上问题调优（虚拟机，tomcat）](#线上问题调优虚拟机tomcat)
 - [面试指南](#面试指南)
 - [工具](#工具)
-  * [Git](#git)
-  * [Docker](#docker)
+  - [Git](#git)
+  - [Docker](#docker)
 - [其他](#其他)
-  * [权限控制（设计、shiro）](#权限控制设计、shiro)
-- [Java学习资源](#Java学习资源)
-- [Java书籍推荐](#Java书籍推荐)
+  - [权限控制（设计、shiro）](#权限控制设计shiro)
+- [Java学习资源](#java学习资源)
+- [Java书籍推荐](#java书籍推荐)
 - [实战项目推荐](#实战项目推荐)
 - [程序人生](#程序人生)
 - [说明](#说明)
-  * [JavaInterview介绍](#JavaInterview介绍)
-  * [关于转载](#关于转载)
-  * [如何对该开源文档进行贡献](#如何对该开源文档进行贡献)
-  * [为什么要做这个开源文档？](#为什么要做这个开源文档？)
-  * [投稿](#投稿)
-  * [联系我](#联系我)
-  * [公众号](#公众号)
+  - [JavaInterview介绍](#javainterview介绍)
+  - [关于转载](#关于转载)
+  - [如何对该开源文档进行贡献](#如何对该开源文档进行贡献)
+  - [为什么要做这个开源文档？](#为什么要做这个开源文档)
+  - [投稿](#投稿)
+  - [联系我](#联系我)
+  - [公众号](#公众号)
 
 
 ## 项目准备
@@ -126,7 +128,6 @@
 - LinkedBlockingQueue源码分析及真实大厂面试题精讲
 - PriorityBlockingQueue源码分析及真实大厂面试题精讲
 
-
 ### 并发
 
 - Synchronized关键字精讲及真实大厂面试题解析
@@ -163,6 +164,7 @@
 - [http面试问题全解析](docs/network/http面试问题全解析.md)
 - 关于tcp、udp网络模型的问题，这篇文章告诉你
 - http、https还不了解，别慌！
+- 面试官问我计算机网络的问题，我一个问题给他讲半个小时
 
 ## 计算机操作系统
 
@@ -180,6 +182,7 @@
 - 跳表这种数据结构，你真的清楚吗，面试官可能会问这些问题！
 - 红黑树你了解多少，不会肯定会被面试官怼坏
 - [B树，B+树，你了解多少，面试官问那些问题？](https://blog.ouyangsihai.cn/mian-shi-guan-wen-ni-b-shu-he-b-shu-jiu-ba-zhe-pian-wen-zhang-diu-gei-ta.html)
+- 二叉树、二叉搜索树、二叉平衡树、红黑树、B树、B+树
 
 ### 算法
 
@@ -213,6 +216,7 @@
 
 - [MySQL高频面试题](https://mp.weixin.qq.com/s/KFCkvfF84l6Eu43CH_TmXA)
 - [MySQL查询优化过程](https://mp.weixin.qq.com/s/jtuLb8uAIHJNvNpwcIZfpA)
+- MySQL面试官会怎么死怼你呢，我告诉你回怼他
 
 
 ## 系统设计
