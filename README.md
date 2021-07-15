@@ -383,13 +383,13 @@
 
 ## Java学习资源
 
-- [2020年Java学习资源，你想要的都在这里了](https://mp.weixin.qq.com/s/wLjjy7D57s3UOv4sr8Lxkg)
+- [2021 Java 1000G 最新学习资源大汇总](https://mp.weixin.qq.com/s/I0jimqziHqRNaIy0kXRCnw)
 
 **截图**
 
-![](http://image.ouyangsihai.cn/Fl0FhkpxLNw0_4-pe8_f8MwAyHzc)
-![](http://image.ouyangsihai.cn/Fp3EtjR1FbKPJG2uPdGpMiFjHBNR)
-![](http://image.ouyangsihai.cn/FqEKc4i6lsfLCRomFAIksG_rgveY)
+![](http://image.ouyangsihai.cn/FkS4oPQKzp9n4x1Lqy-po99DSdwM)
+![](http://image.ouyangsihai.cn/FmuFM8wLHGYUt9EKdWSi_TN1utxH)
+![](http://image.ouyangsihai.cn/Fs29GQ1AQ8hRJpHC2ctzKr5KfrE6)
 
 
 ## Java书籍推荐
