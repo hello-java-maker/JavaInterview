@@ -1,38 +1,40 @@
 **[JavaInterview](https://github.com/OUYANGSIHAI/JavaInterview)** 是本人在备战春招及这几年学习的知识沉淀，这里面有很多都是自己的原创文章，同时，也有很多是本在备战春招的过程中觉得对面试特别有帮助的文章，**[JavaInterview](https://github.com/OUYANGSIHAI/JavaInterview)** 不一定可以帮助你进入到 BAT 等大厂，但是，如果你认真研究，仔细思考，我相信你也可以跟我一样幸运的进入到大厂。
 
-本人经常在 CSDN 写博客，累计**原创博客 400+**，拥有**访问量160W**，目前是 **CSDN 博客专家**，CSDN博客地址：[https://sihai.blog.csdn.net](https://sihai.blog.csdn.net)，春招目前拿到了大厂offer。
+本人经常在 CSDN 写博客，累计**原创博客 400+**，拥有**访问量251W+**，**CSDN 博客专家**，CSDN博客地址：[https://sihai.blog.csdn.net](https://sihai.blog.csdn.net)，春招目前拿到了大厂offer。
 
 如果觉得有帮助，给个 **star** 好不好，哈哈（目前还不是很完善，后面会一一补充）。
 
-**JavaInterview 最新地址**：https://github.com/OUYANGSIHAI/JavaInterview
-
 **一起冲！！！**
 
-#### Java学习资源汇总（个人总结）
+👉 如果你不知道该学习什么的话，请看 [Java 学习线路图是怎样的？](https://zhuanlan.zhihu.com/p/392712685) （原创不易，欢迎点赞），这是 2021 最新最完善的 Java 学习路线！
 
-1、Java基础到Java实战全套学习视频教程，包括多个企业级实战项目：https://urlify.cn/YFzABz  密码: pi95 
+👉 Java学习资源汇总（个人总结）
 
-![](http://image.ouyangsihai.cn/FodtVWogwlUu5DhV1dZuAEhBznf7)
+- Java基础到Java实战全套学习视频教程，包括多个企业级实战项目：https://urlify.cn/YFzABz  密码: pi95 
 
-2、面试算法资料，这是总结的算法资料，学完基本可以应付80%大厂：https://urlify.cn/N7vIj2  密码: ijoi
+- 面试算法资料，这是总结的算法资料，学完基本可以应付80%大厂：https://urlify.cn/N7vIj2  密码: ijoi
 
-3、大厂面试资料，一年时间总结，覆盖Java所有技术点：https://urlify.cn/Vzmeqy  密码: j9t2
+- 大厂面试资料，一年时间总结，覆盖Java所有技术点：https://urlify.cn/Vzmeqy  密码: j9t2
 
-4、面试思维导图，手打总结： https://urlify.cn/vUNF7z  密码: adbo
+- 面试思维导图，手打总结： https://urlify.cn/vUNF7z  密码: adbo
 
-#### Java面试思维导图（手打）
+👉 Java各种电子书：如果你需要各种电子书，可以移步这个仓库 [Java电子书合集](https://github.com/hello-go-maker/cs-books)
 
-这里再分享一些我总结的**Java面试思维导图**，我靠这些导图拿到了一线互联网公司的offer，预览在下方，先来瞧瞧。
+👉 Java面试思维导图（手打）
+
+👉 这里再分享一些我总结的**Java面试思维导图**，我靠这些导图拿到了一线互联网公司的offer，预览在下方，先来瞧瞧。
 
 ![](http://image.ouyangsihai.cn/FtJ3PbBRdNSa1NaUr96JmUq24_yS)
 
 
-**划重点**：想要`导图源文件`，更多`Java面试思维导图`，请关注我的公众号 **程序员的技术圈子**，`微信扫描下面二维码`，回复：**思维导图**，获取思维导图，绿色通道关注福利，等你拿。
+**划重点**：更多`Java面试思维导图`，请关注我的公众号 **程序员的技术圈子**，`微信扫描下面二维码`，回复：**思维导图**，获取思维导图，绿色通道关注福利，等你拿。
 
-![](http://image.ouyangsihai.cn/FlL0VJf1Q4gCfrc8RhL-SL-xiiXo)
+![](http://image.ouyangsihai.cn/FuRA5sT9JUaVbx-YD-Acor04AWhF)
+
+<!-- ![](http://image.ouyangsihai.cn/FlL0VJf1Q4gCfrc8RhL-SL-xiiXo) -->
 
 <a href="https://github.com/OUYANGSIHAI/JavaInterview" target="_blank">
-	<div align="center"> <img src="http://image.ouyangsihai.cn/FvyAZ0ZEHmgrETnvhsJDHioiqs9e" width = 500 height = 300 /> </div>
+	<div align="center"> <img src="http://image.ouyangsihai.cn/FvyAZ0ZEHmgrETnvhsJDHioiqs9e" width = 400 height = 200 /> </div>
 </a>
 
 <div align="center">
@@ -385,12 +387,6 @@
 
 - [2021 Java 1000G 最新学习资源大汇总](https://mp.weixin.qq.com/s/I0jimqziHqRNaIy0kXRCnw)
 
-**截图**
-
-![](http://image.ouyangsihai.cn/FkS4oPQKzp9n4x1Lqy-po99DSdwM)
-![](http://image.ouyangsihai.cn/FmuFM8wLHGYUt9EKdWSi_TN1utxH)
-![](http://image.ouyangsihai.cn/Fs29GQ1AQ8hRJpHC2ctzKr5KfrE6)
-
 
 ## Java书籍推荐
 
@@ -447,6 +443,8 @@
 
 如果大家想要实时关注我更新的文章以及分享的干货的话，关注我的公众号 **程序员的技术圈子**。
 
-![](http://image.ouyangsihai.cn/FlL0VJf1Q4gCfrc8RhL-SL-xiiXo)
+![](http://image.ouyangsihai.cn/FuRA5sT9JUaVbx-YD-Acor04AWhF)
+
+<!-- ![](http://image.ouyangsihai.cn/FlL0VJf1Q4gCfrc8RhL-SL-xiiXo) -->
 
 
