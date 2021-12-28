@@ -11,6 +11,7 @@ _config.yml
 .settings
 .springBeans
 .sts4-cache
+.vscode
 
 ### IntelliJ IDEA ###
 .idea
