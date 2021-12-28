@@ -1,0 +1,11 @@
+{
+    "qiniu.access_key": "5zQ0AuES-7MGr7y89zIyMIK7JsNUlpTLggi5JtGu",
+    "qiniu.bucket": "sihai",
+    "qiniu.domain": "image.ouyangsihai.cn",
+    "qiniu.enable": true,
+    "qiniu.secret_key": "Mq3GKXAmESb4QGcv8mY8-lNWt42G0AFHpTKgl5Yh",
+    "pasteImageToQiniu.access_key": "5zQ0AuES-7MGr7y89zIyMIK7JsNUlpTLggi5JtGu",
+    "pasteImageToQiniu.bucket": "sihai",
+    "pasteImageToQiniu.domain": "image.ouyangsihai.cn",
+    "pasteImageToQiniu.secret_key": "Mq3GKXAmESb4QGcv8mY8-lNWt42G0AFHpTKgl5Yh"
+}
