@@ -44,6 +44,7 @@
 
 ### 目录（ctrl + f 查找更香：不能点击的，还在写）
 
+- [个人经验](#个人经验)
 - [项目准备](#项目准备)
 - [面试知识点](#面试知识点)
 - [公司面经](#公司面经)
@@ -100,11 +101,16 @@
   - [联系我](#联系我)
   - [公众号](#公众号)
 
+## 个人经验
+
+- [应届生如何准备校招，用我这一年的校招经历告诉你](https://sihai.blog.csdn.net/article/details/114258312?spm=1001.2014.3001.5502)
+- [【大学到研究生自学Java的学习路线】这是一份最适合普通大众、非科班的路线，帮你快速找到一份满意的工作](https://sihai.blog.csdn.net/article/details/105964718?spm=1001.2014.3001.5502)
+- [两个月的面试真实经历，告诉大家如何能够进入大厂工作？](https://sihai.blog.csdn.net/article/details/105807642)
 
 ## 项目准备
 
 - [我的个人项目介绍模板](docs/interview/自我介绍和项目介绍.md)
-- [本人真实经历：面试了20家大厂之后，发现这样介绍项目经验，显得项目很牛逼！](https://mp.weixin.qq.com/s/JBtCRaw9Nabk9aIImjkFIQ)
+- [本人面试两个月真实经历：面试了20家大厂之后，发现这样介绍项目经验，显得项目很牛逼！](https://sihai.blog.csdn.net/article/details/105854760)
 - [项目必备知识及解决方案](docs/project/秒杀项目总结.md) 
 
 ## 面试知识点
@@ -226,11 +232,12 @@
 
 ### 算法
 
-
+- [从大学入门到研究生拿大厂offer，必须看的数据结构与算法书籍推荐，不好不推荐！](https://sihai.blog.csdn.net/article/details/106011624?spm=1001.2014.3001.5502)
 - [2020年最新算法面试真题汇总](docs/dataStructures-algorithms/算法面试真题汇总.md)  
 - [2020年最新算法题型难点总结](docs/dataStructures-algorithms/算法题目难点题目总结.md) 
 - [关于贪心算法的leetcode题目，这篇文章可以帮你解决80%](https://blog.ouyangsihai.cn/jie-shao-yi-xia-guan-yu-leetcode-de-tan-xin-suan-fa-de-jie-ti-fang-fa.html)
-- 回溯算法不会，这篇文章一定得看
+- [dfs题目这样去接题，秒杀leetcode题目](https://sihai.blog.csdn.net/article/details/106895319)
+- [回溯算法不会，这篇文章一定得看](https://sihai.blog.csdn.net/article/details/106993339)
 - 动态规划你了解多少，我来帮你入个们
 - 链表的题目真的不难，看了这篇文章你就知道有多简单了
 - 还在怕二叉树的题目吗？
