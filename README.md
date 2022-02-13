@@ -10,7 +10,7 @@
 
 👉 Java学习资源汇总（个人总结）
 
-- Java基础到Java实战全套学习视频教程，包括多个企业级实战项目：https://urlify.cn/YFzABz  密码: pi95 
+- Java基础到Java实战全套学习视频教程，包括多个企业级实战项目：https://github.com/hello-go-maker/cs-learn-source
 
 - 面试算法资料，这是总结的算法资料，学完基本可以应付80%大厂：https://urlify.cn/N7vIj2  密码: ijoi
 
@@ -233,8 +233,8 @@
 ### 算法
 
 - [从大学入门到研究生拿大厂offer，必须看的数据结构与算法书籍推荐，不好不推荐！](https://sihai.blog.csdn.net/article/details/106011624?spm=1001.2014.3001.5502)
-- [2020年最新算法面试真题汇总](docs/dataStructures-algorithms/算法面试真题汇总.md)  
-- [2020年最新算法题型难点总结](docs/dataStructures-algorithms/算法题目难点题目总结.md) 
+- [2021年面试高频算法题题解](docs/dataStructures-algorithms/高频算法题目总结.md) 
+- [2021年最新剑指offer难题解析](docs/dataStructures-algorithms/剑指offer难点总结.md)  
 - [关于贪心算法的leetcode题目，这篇文章可以帮你解决80%](https://blog.ouyangsihai.cn/jie-shao-yi-xia-guan-yu-leetcode-de-tan-xin-suan-fa-de-jie-ti-fang-fa.html)
 - [dfs题目这样去接题，秒杀leetcode题目](https://sihai.blog.csdn.net/article/details/106895319)
 - [回溯算法不会，这篇文章一定得看](https://sihai.blog.csdn.net/article/details/106993339)
@@ -392,19 +392,21 @@
 
 ## Java学习资源
 
+- [2021年Java视频学习教程+项目实战](https://github.com/hello-go-maker/cs-learn-source)
 - [2021 Java 1000G 最新学习资源大汇总](https://mp.weixin.qq.com/s/I0jimqziHqRNaIy0kXRCnw)
 
 
 ## Java书籍推荐
 
 - [从入门到拿大厂offer，必须看的数据结构与算法书籍推荐](https://blog.ouyangsihai.cn/cong-ru-men-dao-na-da-han-offer-bi-xu-kan-de-suan-fa-shu-ji-tui-jian-bu-hao-bu-tui-jian.html)
+- [全网最全电子书下载](https://github.com/hello-go-maker/cs-books)
 
 ## 实战项目推荐
 
 >小心翼翼的告诉你，上面的资源当中就有很多**企业级项目**，没有项目一点不用怕，因为你看到了这个。
 
 - [找工作，没有上的了台面的项目怎么办？](https://mp.weixin.qq.com/s/0oK43_z99pVY9dYVXyIeiw)
-
+- [Java 实战项目推荐](https://github.com/hello-go-maker/cs-learn-source)
 
 ## 程序人生
 
