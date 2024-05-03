@@ -10,37 +10,24 @@
 
 👉 Java学习资源汇总（个人总结）
 
-- Java基础到Java实战全套学习视频教程，包括多个企业级实战项目：https://github.com/hello-go-maker/cs-learn-source
+- Java基础到Java实战全套学习视频教程，包括多个企业级实战项目;
 
-- 面试算法资料，这是总结的算法资料，学完基本可以应付80%大厂：https://urlify.cn/N7vIj2  密码: ijoi
+- 面试算法资料，这是总结的算法资料，学完基本可以应付80%大厂;
 
-- 大厂面试资料，一年时间总结，覆盖Java所有技术点：https://urlify.cn/Vzmeqy  密码: j9t2
+- 大厂面试资料，一年时间总结，覆盖Java所有技术点;
 
-- 面试思维导图，手打总结： https://urlify.cn/vUNF7z  密码: adbo
+- 面试思维导图，手打总结;
 
-👉 Java各种电子书：如果你需要各种电子书，可以移步这个仓库 [Java电子书合集](https://github.com/hello-go-maker/cs-books)
+👉 Java各种电子书：各种技术相关的电子书；
 
-👉 Java面试思维导图（手打）
-
-👉 这里再分享一些我总结的**Java面试思维导图**，我靠这些导图拿到了一线互联网公司的offer，预览在下方，先来瞧瞧。
-
-![](http://image.ouyangsihai.cn/FtJ3PbBRdNSa1NaUr96JmUq24_yS)
+👉 Java面试思维导图（手打），我靠这些导图拿到了一线互联网公司的offer，关注公众号，回复：`思维导图`；
 
 
-**划重点**：更多`Java面试思维导图`，请关注我的公众号 **程序员的技术圈子**，`微信扫描下面二维码`，回复：**思维导图**，获取思维导图，绿色通道关注福利，等你拿。
+**划重点**：获取上面的资源，请关注我的公众号 `程序员的技术圈子`，**微信扫描下面二维码**，回复：`Java资料`，获取思维导图，绿色通道关注福利，等你拿。
 
-![](http://image.ouyangsihai.cn/FuRA5sT9JUaVbx-YD-Acor04AWhF)
+<div align="center"> <img src="assets/程序员技术圈子.jpg" width = 40% align="center"> </div>
 
-<!-- ![](http://image.ouyangsihai.cn/FlL0VJf1Q4gCfrc8RhL-SL-xiiXo) -->
 
-<a href="https://github.com/OUYANGSIHAI/JavaInterview" target="_blank">
-	<div align="center"> <img src="http://image.ouyangsihai.cn/FvyAZ0ZEHmgrETnvhsJDHioiqs9e" width = 400 height = 200 /> </div>
-</a>
-
-<div align="center">
-
-[![微信群](https://camo.githubusercontent.com/59d7f19ba1af85247e016858a63045f8fe9a8c19/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7765436861742de5beaee4bfa1e7bea42d626c75652e737667)](https://github.com/OUYANGSIHAI/JavaInterview#%E8%81%94%E7%B3%BB%E6%88%91) [![公众号](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E5%A5%BD%E5%A5%BD%E5%AD%A6java-orange)](https://github.com/OUYANGSIHAI/JavaInterview#%E5%85%AC%E4%BC%97%E5%8F%B7) [![公众号](https://camo.githubusercontent.com/6d206aa03f27a851cf994123ef7be1a8d3192d54/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a75656a696e2de68e98e987912d626c75652e737667)](https://juejin.im/user/5a672822f265da3e55380f0b) [![投稿](https://camo.githubusercontent.com/85a04ac4953a80940570b5c86ce73a1d34ff1542/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6373646e2d4353444e2d7265642e737667)](https://blog.csdn.net/sihai12345) [![投稿](https://camo.githubusercontent.com/6efc9c83ef8e85b19ce2853b5f69d68255f0c037/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f62696c6962696c692de59394e593a9e59394e593a92d637269746963616c)](https://space.bilibili.com/441147490) 
-</div>
 
 ### 目录（ctrl + f 查找更香：不能点击的，还在写）
 
@@ -216,7 +203,7 @@
 
 ## Linux
 
-- [java工程师linux命令，这篇文章就够了](https://blog.ouyangsihai.cn/java-gong-cheng-shi-linux-ming-ling-zhe-pian-wen-zhang-jiu-gou-liao.html)
+- [java工程师linux命令，这篇文章就够了](https://mp.weixin.qq.com/s/bj28tvF9TwgwrH65OPjXZg)
 - [linux常见面试题（基础版）](https://sihai.blog.csdn.net/article/details/118737736)
 - [linux高频面试题](docs/operating-system/linux高频面试题.md)
 - 常问的几个Linux面试题，通通解决它
@@ -225,9 +212,9 @@
 
 ### 数据结构
 
-- 跳表这种数据结构，你真的清楚吗，面试官可能会问这些问题！
+- [跳表这种数据结构，你真的清楚吗，面试官可能会问这些问题！](https://blog.csdn.net/sihai12345/article/details/138419109)
 - 红黑树你了解多少，不会肯定会被面试官怼坏
-- [B树，B+树，你了解多少，面试官问那些问题？](https://blog.ouyangsihai.cn/mian-shi-guan-wen-ni-b-shu-he-b-shu-jiu-ba-zhe-pian-wen-zhang-diu-gei-ta.html)
+- [B树，B+树，你了解多少，面试官问那些问题？](https://segmentfault.com/a/1190000020416577)
 - [这篇文章带你彻底理解红黑树](https://sihai.blog.csdn.net/article/details/118738496)
 - 二叉树、二叉搜索树、二叉平衡树、红黑树、B树、B+树
 
@@ -249,14 +236,12 @@
 
 ### MySQL
 
-- [MySQL深入理解教程-解决面试中的各种问题](https://blog.ouyangsihai.cn/mysql-shen-ru-li-jie-jiao-cheng-mysql-de-yi-zhu-shi-jie.html)
-- [InnoDB与MyISAM等存储引擎对比](https://blog.ouyangsihai.cn/innodb-yu-myisam-deng-cun-chu-yin-qing-dui-bi.html)
-- [	面试官问你B树和B+树，就把这篇文章丢给他](https://blog.ouyangsihai.cn/mian-shi-guan-wen-ni-b-shu-he-b-shu-jiu-ba-zhe-pian-wen-zhang-diu-gei-ta.html)
-- [MySQL的B+树索引的概念、使用、优化及使用场景](https://blog.ouyangsihai.cn/mysql-de-b-shu-suo-yin.html)
-- [	MySQL全文索引最强教程](https://blog.ouyangsihai.cn/mysql-quan-wen-suo-yin.html)
-- [	MySQL的又一神器-锁，MySQL面试必备](https://blog.ouyangsihai.cn/mysql-de-you-yi-shen-qi-suo.html)
-- [	MySQL事务，这篇文章就够了](https://blog.ouyangsihai.cn/mysql-shi-wu-zhe-pian-wen-zhang-jiu-gou-liao.html)
-- [	mysqldump工具命令参数大全](https://blog.ouyangsihai.cn/mysqldump-gong-ju-ming-ling-can-shu-da-quan.html)
+- [InnoDB与MyISAM等存储引擎对比](https://sihai.blog.csdn.net/article/details/100832158)
+- [MySQL：从B树到B+树到索引再到存储引擎](https://mp.weixin.qq.com/s/QmG1FyWPp23klTVkTJvcUQ)
+- [MySQL全文索引最强教程](https://blog.ouyangsihai.cn/mysql-quan-wen-suo-yin.html)
+- [MySQL的又一神器-锁，MySQL面试必备](https://sihai.blog.csdn.net/article/details/102680104)
+- [MySQL事务，这篇文章就够了](https://sihai.blog.csdn.net/article/details/102815801)
+- [mysqldump工具命令参数大全](https://blog.ouyangsihai.cn/mysqldump-gong-ju-ming-ling-can-shu-da-quan.html)
 - [看完这篇MySQL备份的文章，再也不用担心删库跑路了](https://blog.ouyangsihai.cn/kan-wan-zhe-pian-mysql-bei-fen-de-wen-zhang-zai-ye-bu-yong-dan-xin-shan-ku-pao-lu-liao.html)
 - 关于MySQL索引，面试中面试官会怎么为难你，一定得注意
 - MySQL中的乐观锁、悲观锁，JDK中的乐观锁、悲观锁？ 
@@ -265,7 +250,8 @@
 
 - [MySQL高频面试题](https://mp.weixin.qq.com/s/KFCkvfF84l6Eu43CH_TmXA)
 - [MySQL查询优化过程](https://mp.weixin.qq.com/s/jtuLb8uAIHJNvNpwcIZfpA)
-- MySQL面试官会怎么死怼你呢，我告诉你回怼他
+- [面试官：MySQL 上亿大表，如何深度优化？](https://mp.weixin.qq.com/s/g-_Oz9CLJfBn_asJrzn6Yg)
+- [老司机总结的12条 SQL 优化方案（非常实用）](https://mp.weixin.qq.com/s/7QuASKTpXOm54CgLiHqEJg)
 
 
 ## 系统设计
@@ -296,14 +282,14 @@
 
 #### SpringBoot
 
-- [springboot史上最全教程，11篇文章全解析](https://blog.ouyangsihai.cn/categories/springboot2-0%E6%9C%80%E6%96%B0%E6%95%99%E7%A8%8B/)
+- [springboot史上最全教程，11篇文章全解析](https://blog.csdn.net/sihai12345/category_7779682.html)
 - [微服务面试相关资料](docs/microservice/微服务相关资料.md)  
 
 ## 分布式
 
 ### dubbo
 
-- [dubbo入门实战教程，这篇文章真的再好不过了](https://blog.ouyangsihai.cn/dubbo-yi-pian-wen-zhang-jiu-gou-liao-dubbo-yu-dao-chu-lian.html)
+- [dubbo入门实战教程，这篇文章真的再好不过了](https://segmentfault.com/a/1190000019896723)
 - [dubbo源码分析](http://cmsblogs.com/?p=5324)
 - [dubbo面试题](https://mp.weixin.qq.com/s/PdWRHgm83XwPYP08KnkIsw)
 - [dubbo面试题2](https://mp.weixin.qq.com/s/Kz0s9K3J9Lpvh37oP_CtCA)
@@ -311,13 +297,7 @@
 ### zookeeper
 
 - [什么是zookeeper？](https://mp.weixin.qq.com/s/i2_c4A0146B7Ev8QnofbfQ)
-
-- [Zookeeper教程](http://cmsblogs.com/?p=4139)
-
-- [zookeeper源码分析](http://cmsblogs.com/?p=4190)
-
 - [zookeeeper面试题](https://segmentfault.com/a/1190000014479433)
-
 - [zookeeper面试题2](https://juejin.im/post/5dbac7a0f265da4d2c5e9b3b)
 
 
@@ -325,7 +305,6 @@
 
 - [RocketMQ简单教程](https://juejin.im/post/5af02571f265da0b9e64fcfd)
 - [RocketMQ教程](https://mp.weixin.qq.com/s/VAZaU1DuKbpnaALjp_-9Qw)
-- [RocketMQ源码分析](http://cmsblogs.com/?p=3236)
 - [RocketMQ面试题](https://blog.csdn.net/dingshuo168/article/details/102970988)
 
 ### RabbitMQ
@@ -343,8 +322,6 @@
 - [kafka面试题](https://blog.csdn.net/qq_28900249/article/details/90346599)
 - [kafka面试题2](http://trumandu.github.io/2019/04/13/Kafka%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B8%8E%E7%AD%94%E6%A1%88%E5%85%A8%E5%A5%97%E6%95%B4%E7%90%86/)
 
-- [分布式架构文章](https://blog.ouyangsihai.cn/fen-bu-shi-jia-gou-xi-lie-wen-zhang.html)
-
 ### 消息中间件
 
 - [消息中间件面试题总结](docs/project/消息中间件面试题.md)  
@@ -354,7 +331,6 @@
 - [Redis设计与实现总结文章](https://blog.csdn.net/qq_41594698/category_9067680.html)
 - [Redis面试题必备：基础，面试题](https://mp.weixin.qq.com/s/3Fmv7h5p2QDtLxc9n1dp5A)
 - [Redis面试相关：其中包含redis知识](https://blog.csdn.net/qq_35190492/article/details/103105780)
-- [Redis源码分析](http://cmsblogs.com/?p=4570)
 - [redis其他数据结构](https://blog.csdn.net/c_royi/article/details/82011208)
 
 ### 分布式系统
@@ -363,8 +339,8 @@
 - [垃圾收集器ZGC](https://juejin.im/post/5dc361d3f265da4d1f51c670)
 - [jvm系列文章](https://crowhawk.github.io/tags/#JVM)
 - [一次JVM FullGC的背后，竟隐藏着惊心动魄的线上生产事故！](https://mp.weixin.qq.com/s/5SeGxKtwp6KZhUKn8jXi6A)
-- [Java虚拟机调优文章](https://blog.ouyangsihai.cn/categories/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Java%E8%99%9A%E6%8B%9F%E6%9C%BA/)
-- [利用VisualVM对高并发项目进行性能分析](https://blog.ouyangsihai.cn/shen-ru-li-jie-java-xu-ni-ji-ru-he-li-yong-visualvm-dui-gao-bing-fa-xiang-mu-jin-xing-xing-neng-fen-xi.html#toc-heading-8)
+- [深入理解Java虚拟机-如何利用JDK自带的命令行工具监控上百万的高并发的虚拟机性能](https://mp.weixin.qq.com/s/wPgA5SDURCAqPsWkZGGX0g)
+- [深入理解Java虚拟机-如何利用VisualVM对高并发项目进行性能分析](https://mp.weixin.qq.com/s/hhA9tI_rYNkJVbF-R45hbA)
 - [JVM性能调优](https://www.iteye.com/blog/uule-2114697)
 - [百亿吞吐量服务的JVM性能调优实战](https://mp.weixin.qq.com/s?__biz=MzIwMzY1OTU1NQ==&mid=2247484236&idx=1&sn=b9743b2d7436f84e4617ff34e07abdd8&chksm=96cd4300a1baca1635a137294bc93c518c033ce01f843c9e012a1454b9f3ea3158fa1412e9da&scene=27&ascene=0&devicetype=android-24&version=26060638&nettype=WIFI&abtest_cookie=BAABAAoACwASABMABAAjlx4AUJkeAFmZHgBomR4AAAA%3D&lang=zh_CN&pass_ticket=%2F%2BLqr9N2EZtrEGLFo9vLA6Eqs89DSJ2CBKoAJFZ%2BBngphEP28dwmMQeSZcUB77qZ&wx_header=1)
 - [一次线上JVM调优实践，FullGC40次/天到10天一次的优化过程](https://blog.csdn.net/cml_blog/article/details/81057966)
@@ -378,7 +354,7 @@
 
 ### Git
 
-- [实际开发中的git命令大全](https://blog.ouyangsihai.cn/wo-zai-shi-ji-gong-zuo-zhong-yong-de-zui-duo-de-git-ming-ling.html)
+- [实际开发中的git命令大全](https://sihai.blog.csdn.net/article/details/106418135)
 
 ### Docker
 
@@ -399,7 +375,7 @@
 
 ## Java书籍推荐
 
-- [从入门到拿大厂offer，必须看的数据结构与算法书籍推荐](https://blog.ouyangsihai.cn/cong-ru-men-dao-na-da-han-offer-bi-xu-kan-de-suan-fa-shu-ji-tui-jian-bu-hao-bu-tui-jian.html)
+- [从入门到拿大厂offer，必须看的数据结构与算法书籍推荐](https://blog.csdn.net/sihai12345/article/details/106011624)
 - [全网最全电子书下载](https://github.com/hello-go-maker/cs-books)
 
 ## 实战项目推荐
@@ -411,12 +387,10 @@
 
 ## 程序人生
 
-- [我想是时候跟大学告别了](https://blog.ouyangsihai.cn/wo-xiang-shi-shi-hou-he-da-xue-gao-bie-liao.html)
-- [坚持，这两个字非常重要！](https://blog.ouyangsihai.cn/jian-chi-zhe-liang-ge-zi-fei-chang-chong-yao.html)
-- [2018年年终总结，你的呢？](https://blog.ouyangsihai.cn/zhe-shi-wo-de-2018-nian-zhong-zong-jie-ni-de-ni.html)
-- [多去了解了解自己](https://blog.ouyangsihai.cn/duo-wen-wen-zi-ji-xiang-cheng-wei-shi-me-yang-de-ren.html)
-- [关于考研，这是我给大家的经验](https://blog.ouyangsihai.cn/guan-yu-zhe-jian-shi-wo-you-hua-yao-shuo.html)
-- [从普通二本到研究生再到自媒体的年轻人，这是我的故事](https://blog.ouyangsihai.cn/cong-pu-ben-dao-zha-shuo-cong-da-xue-sheng-dao-zi-mei-ti-de-nian-qing-ren-wo-fen-xiang-wo-de-coding-sheng-huo.html)
+- [我想是时候跟大学告别了](https://blog.csdn.net/sihai12345/article/details/86934341)
+- [坚持，这两个字非常重要！](https://blog.csdn.net/sihai12345/article/details/89507366)
+- [关于考研，这是我给大家的经验](https://blog.csdn.net/sihai12345/article/details/88548630)
+- [从普通二本到研究生再到自媒体的年轻人，这是我的故事](https://segmentfault.com/a/1190000020317748)
 
 ## 说明
 
@@ -446,15 +420,12 @@
 
 添加我的微信备注 **github**, 即可入群。
 
-![](http://image.ouyangsihai.cn/FldnPFgz_u_3kt7YH_sHhAQL1kyt)
-
+<img src="assets/wx.jpg" width = 40%>
 
 ### 公众号
 
 如果大家想要实时关注我更新的文章以及分享的干货的话，关注我的公众号 **程序员的技术圈子**。
 
-![](http://image.ouyangsihai.cn/FuRA5sT9JUaVbx-YD-Acor04AWhF)
-
-<!-- ![](http://image.ouyangsihai.cn/FlL0VJf1Q4gCfrc8RhL-SL-xiiXo) -->
+<img src="assets/程序员技术圈子.jpg" width = 40%>
 
 
