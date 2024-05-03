@@ -182,24 +182,25 @@
 
 - [深入理解Java虚拟机系列](https://mp.weixin.qq.com/s/SZ87s3fmKL3Kc_tAMcOFQw)
 - [深入理解Java虚拟机系列--完全解决面试问题](https://blog.ouyangsihai.cn/shen-ru-li-jie-java-xu-ni-ji-xi-lie-jiao-cheng.html)
-- [深入理解Java虚拟机-Java内存区域透彻分析](https://blog.ouyangsihai.cn/shen-ru-li-jie-java-xu-ni-ji-java-nei-cun-qu-yu-tou-che-fen-xi.html)
-- [深入理解Java虚拟机-JVM内存分配与回收策略原理，从此告别JVM内存分配文盲](https://blog.ouyangsihai.cn/shen-ru-li-jie-java-xu-ni-ji-jvm-nei-cun-fen-pei-yu-hui-shou-ce-lue-yuan-li-cong-ci-gao-bie-jvm-nei-cun-fen-pei-wen-mang.html)
-- [深入理解Java虚拟机-常用vm参数分析](https://blog.ouyangsihai.cn/shen-ru-li-jie-java-xu-ni-ji-chang-yong-vm-can-shu-fen-xi.html)
-- [深入理解Java虚拟机-如何利用JDK自带的命令行工具监控上百万的高并发的虚拟机性能](https://blog.ouyangsihai.cn/shen-ru-li-jie-java-xu-ni-ji-ru-he-li-yong-jdk-zi-dai-de-ming-ling-xing-gong-ju-jian-kong-shang-bai-wan-de-gao-bing-fa-de-xu-ni-ji-xing-neng.html)
-- [深入理解Java虚拟机-如何利用VisualVM对高并发项目进行性能分析](https://blog.ouyangsihai.cn/shen-ru-li-jie-java-xu-ni-ji-ru-he-li-yong-visualvm-dui-gao-bing-fa-xiang-mu-jin-xing-xing-neng-fen-xi.html)
-- [深入理解Java虚拟机-你了解GC算法原理吗](https://blog.ouyangsihai.cn/shen-ru-li-jie-java-xu-ni-ji-ni-liao-jie-gc-suan-fa-yuan-li-ma.html)
-- [几个面试官常问的垃圾回收器，下次面试就拿这篇文章怼回去！](https://blog.ouyangsihai.cn/shen-ru-li-jie-java-xu-ni-ji-chang-jian-de-la-ji-hui-shou-qi.html)
-- [面试官100%会严刑拷打的 CMS 垃圾回收器，下次面试就拿这篇文章怼回去！](https://blog.ouyangsihai.cn/shen-ru-li-jie-java-xu-ni-ji-cms-la-ji-hui-shou-qi.html)
+- [深入理解Java虚拟机-Java内存区域透彻分析](https://mp.weixin.qq.com/s/WuyxyelaXbU-lg-HVZ95TA)
+- [深入理解Java虚拟机-JVM内存分配与回收策略原理，从此告别JVM内存分配文盲](https://mp.weixin.qq.com/s/IG_zU5xa7y4BB6PVP0Fmow)
+- [深入理解Java虚拟机-常用vm参数分析](https://mp.weixin.qq.com/s/l8fsq07jI0svqBdBGxuOzA)
+- [深入理解Java虚拟机-如何利用JDK自带的命令行工具监控上百万的高并发的虚拟机性能](https://mp.weixin.qq.com/s/wPgA5SDURCAqPsWkZGGX0g)
+- [深入理解Java虚拟机-如何利用VisualVM对高并发项目进行性能分析](https://mp.weixin.qq.com/s/hhA9tI_rYNkJVbF-R45hbA)
+- [深入理解Java虚拟机-你了解GC算法原理吗](https://mp.weixin.qq.com/s/SZ87s3fmKL3Kc_tAMcOFQw)
+- [几个面试官常问的垃圾回收器，下次面试就拿这篇文章怼回去！](https://sihai.blog.csdn.net/article/details/105700527)
+- [面试官100%会严刑拷打的 CMS 垃圾回收器，下次面试就拿这篇文章怼回去！](https://sihai.blog.csdn.net/article/details/105808878)
 - [JVM 面试题 87 题详解](https://sihai.blog.csdn.net/article/details/118737581)
 
 
 ### Java8 
 
-- [Java8快速学习教程](https://blog.ouyangsihai.cn/java8-zui-xin-jiao-cheng-bu-yi-yang-de-java8.html)
-- [Java11的最新特性](https://blog.ouyangsihai.cn/java11-zheng-shi-fa-bu-liao-wo-men-gai-zen-me-ban.html)
-- [Java8 之 lambda 表达式、方法引用、函数式接口、默认方式、静态方法](https://blog.ouyangsihai.cn/java8-zhi-lambda-biao-da-shi-fang-fa-yin-yong-han-shu-shi-jie-kou-mo-ren-fang-shi-jing-tai-fang-fa.html)
-- [Java8之Consumer、Supplier、Predicate和Function攻略](https://blog.ouyangsihai.cn/java8-zhi-consumer-supplier-predicate-he-function-gong-lue.html)
-- [Java8 的 Stream 流式操作之王者归来](https://blog.ouyangsihai.cn/java8-de-stream-liu-shi-cao-zuo-zhi-wang-zhe-gui-lai.html)
+- [Java8 Stream：2万字20个实例，玩转集合的筛选、归约、分组、聚合](https://mp.weixin.qq.com/s/u042M2Sw2glBlevIDVoSXg)
+- [利用Java8新特征，重构传统设计模式，你学会了吗？](https://mp.weixin.qq.com/s/zZ6rWz_t_snYNiNyOtaGiQ)
+- [Java8 之 lambda 表达式、方法引用、函数式接口、默认方式、静态方法](https://mp.weixin.qq.com/s/FdzNWIsEmHVe9Nehxvfa3w)
+- [Java8之Consumer、Supplier、Predicate和Function攻略](https://sihai.blog.csdn.net/article/details/98193777)
+- [Java8 的 Stream 流式操作之王者归来](https://sihai.blog.csdn.net/article/details/100434684)
+- [Java11-17的最新特性](https://mp.weixin.qq.com/s/QPGdNn56mCCDIUS047_1cQ)
 
 ## 计算机网络
 
