@@ -151,18 +151,18 @@
 
 #### 阻塞容器
 
-- ConcurrentHashMap源码分析及真实大厂面试题精讲
+- [ConcurrentHashMap源码分析及真实大厂面试题精讲](https://blog.csdn.net/sihai12345/article/details/138420403)
 - ArrayBlockingQueue源码分析及真实大厂面试题精讲
 - LinkedBlockingQueue源码分析及真实大厂面试题精讲
 - PriorityBlockingQueue源码分析及真实大厂面试题精讲
 
 ### 并发
 
-- Synchronized关键字精讲及真实大厂面试题解析
-- Volitale关键字精讲及真实大厂面试题解析
+- [Synchronized关键字精讲及真实大厂面试题解析](https://blog.csdn.net/sihai12345/article/details/138420474)
+- [Volitale关键字精讲及真实大厂面试题解析](https://blog.csdn.net/sihai12345/article/details/138420521)
 - 关于LRU的实现
-- ThreadLocal面试中会怎么提问呢？
-- 线程池的面试题，这篇文章帮你搞定它！
+- [ThreadLocal面试中会怎么提问呢？](https://blog.csdn.net/sihai12345/article/details/138420558)
+- [线程池的面试题，这篇文章帮你搞定它！](https://blog.csdn.net/sihai12345/article/details/138420591)
 
 
 ### JVM
