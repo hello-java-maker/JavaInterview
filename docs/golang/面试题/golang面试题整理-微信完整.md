@@ -409,6 +409,7 @@ slices maps functions
 #### 1、channel 是否线程安全？锁用在什么地方？
 
 ![图片](data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==)
+
 #### 2、go channel 的底层实现原理 （数据结构）
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/3wgqfEribn6fXH7I19WrA9zDKjjmfnh6uAhBkuiacRMG4zqoayxUrPtUZQHoNxic9GOvXljTCre35EUTwzrp88LaQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)

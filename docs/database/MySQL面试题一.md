@@ -310,12 +310,12 @@ InnoDB存储引擎中存在着不同类型的锁，下面一一介绍一下。
 
 - S or X (共享锁、排他锁)的兼容性
 
-![](http://image.ouyangsihai.cn/Fvr5OSfX9nP2Ip30O088kVx-Pdza)
+![](https://img-blog.csdnimg.cn/20191022121422475.png)
 
 
 - IS or IX (共享、排他)意向锁的兼容性
 
-![](http://image.ouyangsihai.cn/Fgf-Pg6JPVJ7CmPyrdcow_5q-VZm)
+![](https://img-blog.csdnimg.cn/20191022121422644.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3NpaGFpMTIzNDU=,size_16,color_FFFFFF,t_70)
 
 **注意：** 任意 IS/IX 锁之间都是兼容的，因为它们只表示想要对表加锁，而不是真正加锁。
 
@@ -353,7 +353,7 @@ InnoDB存储引擎中存在着不同类型的锁，下面一一介绍一下。
 
 ##### MySQL 不同引擎支持的锁的粒度
 
-![](http://image.ouyangsihai.cn/FvpMs-9FmTS7IKUBEv3WCm0IFJJH)
+![](https://img-blog.csdnimg.cn/20191022121422292.png)
 
 > 了解一致性非锁定读和一致性锁定读吗？
 
@@ -372,7 +372,7 @@ InnoDB存储引擎中存在着不同类型的锁，下面一一介绍一下。
 
  **一致性非锁定读(consistent nonlocking read)** 是指InnoDB存储引擎通过多版本控制(MVVC)读取当前数据库中行数据的方式。如果读取的行正在执行DELETE或UPDATE操作，这时读取操作不会因此去等待行上锁的释放。相反地，InnoDB会去读取行的一个快照。所以，非锁定读机制大大提高了数据库的并发性。
 
- ![来自网络：侵权删](http://image.ouyangsihai.cn/FhF001C8JBPwaEXPgJ9TEzFT8C6X)
+ ![来自网络：侵权删](https://img-blog.csdnimg.cn/2019102212142395.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3NpaGFpMTIzNDU=,size_16,color_FFFFFF,t_70)
 
 一致性非锁定读是InnoDB默认的读取方式，即读取不会占用和等待行上的锁。在事务隔离级别`READ COMMITTED`和`REPEATABLE READ`下，InnoDB使用一致性非锁定读。
 
@@ -382,7 +382,7 @@ InnoDB存储引擎中存在着不同类型的锁，下面一一介绍一下。
 
 首先创建一张表;
 
-![](http://image.ouyangsihai.cn/FqzGMzTgnaAxaSX2Ko9YVUjnmFWt)
+![](https://img-blog.csdnimg.cn/20191022121423315.png)
 
 插入一条数据；
 
@@ -396,19 +396,19 @@ insert into lock_test values(1);
 select @@tx_isolation;
 ```
 
-![](http://image.ouyangsihai.cn/Fn3A5-fYhDs8rb0VvNMC1OL6B9sW)
+![](https://img-blog.csdnimg.cn/20191022121423531.png)
 
 下面分为两种事务进行操作。
 
 在`REPEATABLE READ`事务隔离级别下；
 
-![](http://image.ouyangsihai.cn/FhE1WGAeSkZGAq90Cx1alh3dZTVa)
+![](https://img-blog.csdnimg.cn/20191022121423748.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3NpaGFpMTIzNDU=,size_16,color_FFFFFF,t_70)
 
 在`REPEATABLE READ`事务隔离级别下，读取事务开始时的行数据，所以当会话B修改了数据之后，通过以前的查询，还是可以查询到数据的。
 
 在`READ COMMITTED`事务隔离级别下;
 
-![](http://image.ouyangsihai.cn/FrdXfAw47rFAzRks4-4Y9IoWKtl4)
+![](https://img-blog.csdnimg.cn/20191022121423939.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3NpaGFpMTIzNDU=,size_16,color_FFFFFF,t_70)
 
 在`READ COMMITTED`事务隔离级别下，读取该行版本最新的一个快照数据，所以，由于B会话修改了数据，并且提交了事务，所以，A读取不到数据了。
 
@@ -423,10 +423,10 @@ InnoDB存储引擎有3种行锁的算法，其分别是：
 **Record Lock**：总是会去锁住索引记录，如果InnoDB存储引擎表在建立的时候没有设置任何一个索引，那么这时InnoDB存储引擎会使用隐式的主键来进行锁定。
 
 **Next-Key Lock**：结合了Gap Lock和Record Lock的一种锁定算法，在Next-Key Lock算法下，InnoDB对于行的查询都是采用这种锁定算法。举个例子10，20，30，那么该索引可能被Next-Key Locking的区间为：
-![](http://image.ouyangsihai.cn/FrOLmJtKBxs70A0QHAc35CccZg2Y)
+![](https://img-blog.csdnimg.cn/20191022121424137.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3NpaGFpMTIzNDU=,size_16,color_FFFFFF,t_70)
 
 除了Next-Key Locking，还有**Previous-Key Locking**技术，这种技术跟Next-Key Lock正好相反，锁定的区间是区间范围和前一个值。同样上述的值，使用Previous-Key Locking技术，那么可锁定的区间为：
-![](http://image.ouyangsihai.cn/Fr-S9vxXpA--rHGiPkWMpCdhEKxT)
+![](https://img-blog.csdnimg.cn/20191022121424338.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3NpaGFpMTIzNDU=,size_16,color_FFFFFF,t_70)
 
 不是所有索引都会加上Next-key Lock的，这里有一种**特殊的情况**，在查询的列是唯一索引（包含主键索引）的情况下，`Next-key Lock`会降级为`Record Lock`。
 
@@ -452,12 +452,12 @@ SELECT * FROM test WHERE y = 3 FOR UPDATE
 
 - 对于主键x
 
-![](http://image.ouyangsihai.cn/Fo3ptcBFShRMwLAC1guVV4mUO-93)
+![](https://img-blog.csdnimg.cn/20191022121424525.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3NpaGFpMTIzNDU=,size_16,color_FFFFFF,t_70)
 
 
 - 辅助索引y
 
-![](http://image.ouyangsihai.cn/Fj8hUM6slurRWb5SImLWWDM2YDu0)
+![](https://img-blog.csdnimg.cn/20191022121424732.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3NpaGFpMTIzNDU=,size_16,color_FFFFFF,t_70)
 
 
 用户可以通过以下两种方式来显示的关闭Gap Lock：

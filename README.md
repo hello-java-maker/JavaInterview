@@ -155,9 +155,9 @@
 
 #### 基础容器
 
-- ArrayList源码分析及真实大厂面试题精讲
-- LinkedList源码分析及真实大厂面试题精讲
-- HashMap源码分析及真实大厂面试题精讲
+- [ArrayList源码分析及真实大厂面试题精讲](https://blog.csdn.net/sihai12345/article/details/138413307?spm=1001.2014.3001.5501)
+- [LinkedList源码分析及真实大厂面试题精讲](https://blog.csdn.net/sihai12345/article/details/138413722?spm=1001.2014.3001.5501)
+- [HashMap源码分析及真实大厂面试题精讲](https://blog.csdn.net/sihai12345/article/details/138416578?spm=1001.2014.3001.5501)
 - TreeMap源码分析及真实大厂面试题精讲
 - TreeSet源码分析及真实大厂面试题精讲
 - LinkedHashMap源码分析及真实大厂面试题精讲
